@@ -6,11 +6,11 @@
  
             if(num1 > num2)
             {
-                Console.WriteLine("Первое число больше второго");
+                Console.Write($"число {num1} больше числа {num2}") ;
             }
             else if (num1 < num2)
             {
-                Console.WriteLine("Первое число меньше второго");
+                 Console.Write($"число {num1} меньше числа {num2}") ;
             }
             else
             {
