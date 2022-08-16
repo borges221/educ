@@ -2,7 +2,7 @@
 // которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
  int  n, reverse=0, rem;           
        Console.Write("Enter a number: ");      
-       n= int.Parse(Console.ReadLine()); 
+        n= Convert.ToInt32(Console.ReadLine()); 
     int f=n;      
        while(n!=0)      
        {      
