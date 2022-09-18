@@ -35,7 +35,7 @@ for(int i = 1; i < array.Length; i+=2)
 return sum;
 }
 
-int[] array  = CreateArrayRndInt(10000, -10000, 10000); 
+int[] array  = CreateArrayRndInt(5, -100, 100); 
 PrintArray(array);
 Console.WriteLine($"Сумм чисел на нечетных индексах массива = {SumOdd(array)}");
 

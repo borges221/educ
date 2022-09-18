@@ -47,7 +47,7 @@ double[] ColAverage (int[,]array)
     return averageArray;  
 }
 
-int[,] arrmatrix = CreateMatrixRndInt(5,5, 1,10);
+int[,] arrmatrix = CreateMatrixRndInt(3,3, 1,10);
 PrintMatrix(arrmatrix);
 Console.WriteLine("Среднее арифметическое каждого столбца:");
 ColAverage (arrmatrix);

@@ -40,7 +40,7 @@ return count;
 
 }
 
-int[] array  = CreateArrayRndInt(10000, 100, 999); 
+int[] array  = CreateArrayRndInt(5, 100, 999); 
 PrintArray(array);
 Console.WriteLine($"Количество четных элементов в массиве равно {EvenNumber(array)}");
 
