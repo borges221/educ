@@ -1,0 +1,388 @@
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-28T13:23:04.501260800Z</date>
+  <millis>1669641784501</millis>
+  <nanos>260800</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-10, -55, 11, 42, 66, -47, 68, -31, -3, -56, 6, -99, -9, 3, -11, -64, -21, -26, 14, 80, -17, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.595012500Z</date>
+  <millis>1669641784595</millis>
+  <nanos>12500</nanos>
+  <sequence>1</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-10, -55, 11, 42, 66, -47, 68, -31, -3, -56, 6, -99, -9, 3, -11, -64, -21, -26, 14, 80, -17, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.595012500Z</date>
+  <millis>1669641784595</millis>
+  <nanos>12500</nanos>
+  <sequence>2</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -10, 11, 42, -47, 66, -31, -3, -56, 6, -99, -9, 3, -11, -64, -21, -26, 14, 68, -17, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.595012500Z</date>
+  <millis>1669641784595</millis>
+  <nanos>12500</nanos>
+  <sequence>3</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -10, 11, 42, -47, 66, -31, -3, -56, 6, -99, -9, 3, -11, -64, -21, -26, 14, 68, -17, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.595012500Z</date>
+  <millis>1669641784595</millis>
+  <nanos>12500</nanos>
+  <sequence>4</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -10, 11, -47, 42, -31, -3, -56, 6, -99, -9, 3, -11, -64, -21, -26, 14, 66, -17, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.595012500Z</date>
+  <millis>1669641784595</millis>
+  <nanos>12500</nanos>
+  <sequence>5</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -10, 11, -47, 42, -31, -3, -56, 6, -99, -9, 3, -11, -64, -21, -26, 14, 66, -17, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.610636800Z</date>
+  <millis>1669641784610</millis>
+  <nanos>636800</nanos>
+  <sequence>6</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -10, -47, 11, -31, -3, -56, 6, -99, -9, 3, -11, -64, -21, -26, 14, 42, -17, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.610636800Z</date>
+  <millis>1669641784610</millis>
+  <nanos>636800</nanos>
+  <sequence>7</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -10, -47, 11, -31, -3, -56, 6, -99, -9, 3, -11, -64, -21, -26, 14, 42, -17, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.610636800Z</date>
+  <millis>1669641784610</millis>
+  <nanos>636800</nanos>
+  <sequence>8</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -47, -10, -31, -3, -56, 6, -99, -9, 3, -11, -64, -21, -26, 11, 14, -17, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.610636800Z</date>
+  <millis>1669641784610</millis>
+  <nanos>636800</nanos>
+  <sequence>9</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -47, -10, -31, -3, -56, 6, -99, -9, 3, -11, -64, -21, -26, 11, 14, -17, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.610636800Z</date>
+  <millis>1669641784610</millis>
+  <nanos>636800</nanos>
+  <sequence>10</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -47, -31, -10, -56, -3, -99, -9, 3, -11, -64, -21, -26, 6, 11, -17, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.610636800Z</date>
+  <millis>1669641784610</millis>
+  <nanos>636800</nanos>
+  <sequence>11</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -47, -31, -10, -56, -3, -99, -9, 3, -11, -64, -21, -26, 6, 11, -17, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.610636800Z</date>
+  <millis>1669641784610</millis>
+  <nanos>636800</nanos>
+  <sequence>12</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -47, -31, -56, -10, -99, -9, -3, -11, -64, -21, -26, 3, 6, -17, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.610636800Z</date>
+  <millis>1669641784610</millis>
+  <nanos>636800</nanos>
+  <sequence>13</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -47, -31, -56, -10, -99, -9, -3, -11, -64, -21, -26, 3, 6, -17, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.610636800Z</date>
+  <millis>1669641784610</millis>
+  <nanos>636800</nanos>
+  <sequence>14</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -47, -56, -31, -99, -10, -9, -11, -64, -21, -26, -3, 3, -17, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.610636800Z</date>
+  <millis>1669641784610</millis>
+  <nanos>636800</nanos>
+  <sequence>15</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -47, -56, -31, -99, -10, -9, -11, -64, -21, -26, -3, 3, -17, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.610636800Z</date>
+  <millis>1669641784610</millis>
+  <nanos>636800</nanos>
+  <sequence>16</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -56, -47, -99, -31, -10, -11, -64, -21, -26, -9, -3, -17, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.626261800Z</date>
+  <millis>1669641784626</millis>
+  <nanos>261800</nanos>
+  <sequence>17</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-55, -56, -47, -99, -31, -10, -11, -64, -21, -26, -9, -3, -17, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.626261800Z</date>
+  <millis>1669641784626</millis>
+  <nanos>261800</nanos>
+  <sequence>18</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-56, -55, -99, -47, -31, -11, -64, -21, -26, -10, -9, -17, -3, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.626261800Z</date>
+  <millis>1669641784626</millis>
+  <nanos>261800</nanos>
+  <sequence>19</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-56, -55, -99, -47, -31, -11, -64, -21, -26, -10, -9, -17, -3, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.626261800Z</date>
+  <millis>1669641784626</millis>
+  <nanos>261800</nanos>
+  <sequence>20</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-56, -99, -55, -47, -31, -64, -21, -26, -11, -10, -17, -9, -3, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.626261800Z</date>
+  <millis>1669641784626</millis>
+  <nanos>261800</nanos>
+  <sequence>21</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-56, -99, -55, -47, -31, -64, -21, -26, -11, -10, -17, -9, -3, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.626261800Z</date>
+  <millis>1669641784626</millis>
+  <nanos>261800</nanos>
+  <sequence>22</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-99, -56, -55, -47, -64, -31, -26, -21, -11, -17, -10, -9, -3, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.626261800Z</date>
+  <millis>1669641784626</millis>
+  <nanos>261800</nanos>
+  <sequence>23</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-99, -56, -55, -47, -64, -31, -26, -21, -11, -17, -10, -9, -3, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.626261800Z</date>
+  <millis>1669641784626</millis>
+  <nanos>261800</nanos>
+  <sequence>24</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-99, -56, -55, -64, -47, -31, -26, -21, -17, -11, -10, -9, -3, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.641888Z</date>
+  <millis>1669641784641</millis>
+  <nanos>888000</nanos>
+  <sequence>25</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-99, -56, -55, -64, -47, -31, -26, -21, -17, -11, -10, -9, -3, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.641888Z</date>
+  <millis>1669641784641</millis>
+  <nanos>888000</nanos>
+  <sequence>26</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-99, -56, -64, -55, -47, -31, -26, -21, -17, -11, -10, -9, -3, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.641888Z</date>
+  <millis>1669641784641</millis>
+  <nanos>888000</nanos>
+  <sequence>27</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-99, -56, -64, -55, -47, -31, -26, -21, -17, -11, -10, -9, -3, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.641888Z</date>
+  <millis>1669641784641</millis>
+  <nanos>888000</nanos>
+  <sequence>28</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-99, -64, -56, -55, -47, -31, -26, -21, -17, -11, -10, -9, -3, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.641888Z</date>
+  <millis>1669641784641</millis>
+  <nanos>888000</nanos>
+  <sequence>29</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-99, -64, -56, -55, -47, -31, -26, -21, -17, -11, -10, -9, -3, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.641888Z</date>
+  <millis>1669641784641</millis>
+  <nanos>888000</nanos>
+  <sequence>30</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-99, -64, -56, -55, -47, -31, -26, -21, -17, -11, -10, -9, -3, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+<record>
+  <date>2022-11-28T13:23:04.641888Z</date>
+  <millis>1669641784641</millis>
+  <nanos>888000</nanos>
+  <sequence>31</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-99, -64, -56, -55, -47, -31, -26, -21, -17, -11, -10, -9, -3, 3, 6, 11, 14, 42, 66, 68, 80, 90]</message>
+</record>
+</log>
