@@ -1,0 +1,64 @@
+нояб. 28, 2022 9:50:42 PM Main main
+INFO: Program Started 
+нояб. 28, 2022 9:51:02 PM Main main
+INFO: input number A 6556.0input number B 1.0operation5
+нояб. 28, 2022 9:51:02 PM Main main
+INFO: result80.96912991998865
+нояб. 28, 2022 9:51:02 PM Main main
+INFO: result1.0
+нояб. 28, 2022 9:51:02 PM Main main
+INFO: program end
+нояб. 29, 2022 7:33:32 PM Main main
+INFO: Program Started 
+нояб. 29, 2022 7:33:53 PM Main main
+INFO: result0.0
+нояб. 29, 2022 7:33:53 PM Main main
+INFO: input number A 5.0input number B 6.0operation7
+нояб. 29, 2022 7:33:53 PM Main main
+INFO: result0.0
+нояб. 29, 2022 7:33:53 PM Main main
+INFO: result0.0
+нояб. 29, 2022 7:33:53 PM Main main
+INFO: program end
+нояб. 29, 2022 7:37:53 PM Main main
+INFO: Program Started 
+нояб. 29, 2022 7:38:01 PM Main main
+INFO: result0.0
+нояб. 29, 2022 7:38:01 PM Main main
+INFO: input number A 3.0input number B 2.0operation7
+нояб. 29, 2022 7:38:01 PM Main main
+INFO: result0.0
+нояб. 29, 2022 7:38:01 PM Main main
+INFO: result0.0
+нояб. 29, 2022 7:38:01 PM Main main
+INFO: program end
+нояб. 29, 2022 7:38:23 PM Main main
+INFO: Program Started 
+нояб. 29, 2022 7:38:35 PM Main main
+INFO: result0.0
+нояб. 29, 2022 7:38:35 PM Main main
+INFO: input number A 7.0input number B 7.0operation7
+нояб. 29, 2022 7:38:35 PM Main main
+INFO: result0.0
+нояб. 29, 2022 7:38:35 PM Main main
+INFO: result0.0
+нояб. 29, 2022 7:38:35 PM Main main
+INFO: program end
+нояб. 29, 2022 7:49:53 PM Main main
+INFO: Program Started 
+нояб. 29, 2022 7:50:07 PM Main main
+INFO: result0.0
+нояб. 29, 2022 7:50:07 PM Main main
+INFO: program end
+нояб. 29, 2022 7:50:22 PM Main main
+INFO: Program Started 
+нояб. 29, 2022 7:50:30 PM Main main
+INFO: result11.0
+нояб. 29, 2022 7:50:30 PM Main main
+INFO: input number A 5.0input number B 6.0operation1
+нояб. 29, 2022 7:50:30 PM Main main
+INFO: result11.0
+нояб. 29, 2022 7:50:30 PM Main main
+INFO: result0.0
+нояб. 29, 2022 7:50:30 PM Main main
+INFO: program end
