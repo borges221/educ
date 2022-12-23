@@ -3,11 +3,14 @@ public class User {
     private String name;
     private String soname;
     private int id;
-
-    public User(String name, String soname, int id) {
+    private String fio;
+    private int dateOfBirth;
+    public User(String name, String soname, int id, String fio, int dateOfBirth) {
         this.name = name;
         this.soname = soname;
         this.id = id;
+        this.fio = fio;
+        this.dateOfBirth = dateOfBirth;
     }
 
     public String getName() {
@@ -32,5 +35,21 @@ public class User {
 
     public void setId(int id) {
         this.id = id;
+    }
+
+    public String getFio() {
+        return fio;
+    }
+
+    public void setFio(String fio) {
+        this.fio = fio;
+    }
+
+    public int getDateOfBirth() {
+        return dateOfBirth;
+    }
+
+    public void setDateOfBirth(int dateOfBirth) {
+        this.dateOfBirth = dateOfBirth;
     }
 }

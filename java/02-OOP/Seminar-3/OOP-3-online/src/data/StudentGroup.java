@@ -1,8 +1,9 @@
 package data;
 
+import java.util.Iterator;
 import java.util.List;
 
-public class StudentGroup {
+public class StudentGroup implements Iterable<Student> , Comparable<StudentGroup> {
     private Teacher teacher;
     private List<Student> studentList;
     private int groupNum;
@@ -40,5 +41,15 @@ public class StudentGroup {
 
     public void setGroupNum(int groupNum) {
         this.groupNum = groupNum;
+    }
+
+    @Override
+    public Iterator<Student> iterator(){
+        return new StudentsGroupIterator(this);
+    }
+
+    @Override
+    public int compareTo(StudentGroup o) {
+        return 0;
     }
 }
