@@ -3,7 +3,7 @@ package controller;
 import data.StudentGroup;
 import service.DataService;
 import data.GroupStream;
-import service.GroupStreamServiceImlem;
+import service.implement.GroupStreamServiceImlem;
 import service.StreamService;
 
 

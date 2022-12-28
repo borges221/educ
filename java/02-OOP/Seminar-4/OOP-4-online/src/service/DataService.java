@@ -1,8 +1,10 @@
 package service;
 
 import data.StudentGroup;
-public class DataService {
-    StudentGroup getGroup() {
+import data.User;
+
+public abstract class DataService {
+    public StudentGroup getGroup() {
         return null;
     }
 
@@ -11,4 +13,5 @@ public class DataService {
     }
 
 
+    public abstract void write(User user);
 }
