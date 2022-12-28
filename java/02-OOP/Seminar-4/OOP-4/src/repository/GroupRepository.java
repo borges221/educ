@@ -1,6 +1,6 @@
 package repository;
 
-import data.StudentGroup;
+import data.student.StudentGroup;
 
 //public class GroupRepository implements Repository<String, Integer>{
 //

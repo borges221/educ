@@ -1,7 +1,7 @@
 package service.implement;
 
-import data.Student;
-import data.StudentGroup;
+import data.student.Student;
+import data.student.StudentGroup;
 import repository.Repository;
 import service.DataService;
 
@@ -10,7 +10,7 @@ import java.util.Iterator;
 import static util.RandW.getTeacherFromFile;
 import static util.RandW.getStudentFromFile;
 
-public class StudentGroupServiceImplem extends DataService {
+public class StudentGroupServiceImplem implements DataService {
     private final Repository<StudentGroup, Integer> studentGroupIntegerRepository;
 
     public StudentGroupServiceImplem(Repository<StudentGroup, Integer> studentGroupIntegerRunnable) {
@@ -26,8 +26,28 @@ public class StudentGroupServiceImplem extends DataService {
     }
 
 
+    @Override
+    public StudentGroup getGroup() {
+        return null;
+    }
+
     public StudentGroup getGroup(int num) {
         return new StudentGroup(getTeacherFromFile(), getStudentFromFile(), num);
+    }
+
+    @Override
+    public void findGroup(StudentGroup studentGroup) {
+
+    }
+
+    @Override
+    public void usernamesort(StudentGroup studentGroup) {
+
+    }
+
+    @Override
+    public void remove(StudentGroup studentGroup) {
+
     }
 
 

@@ -1,6 +1,6 @@
 package data.comparator;
 
-import data.Student;
+import data.student.Student;
 
 import java.util.Comparator;
 

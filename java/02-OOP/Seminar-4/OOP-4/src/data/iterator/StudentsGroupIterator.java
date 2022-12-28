@@ -1,7 +1,7 @@
 package data.iterator;
 
-import data.Student;
-import data.StudentGroup;
+import data.student.Student;
+import data.student.StudentGroup;
 
 import java.util.Iterator;
 import java.util.List;

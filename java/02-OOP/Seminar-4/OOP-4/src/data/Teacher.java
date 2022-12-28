@@ -3,8 +3,8 @@ package data;
 public class Teacher extends User {
     private String category;
 
-    public Teacher(String name, String soname, int id, String category) {
-        super(name, soname, id);
+    public Teacher(String name, String soname, int id, String fio, int dateOfBirth, String category) {
+        super(name, soname, id, fio, dateOfBirth);
         this.category = category;
     }
 

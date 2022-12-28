@@ -1,6 +1,6 @@
 package repository;
 
-import data.Student;
+import data.student.Student;
 
 public class StudentRepository implements UserRepository<Student, Integer> {
     @Override

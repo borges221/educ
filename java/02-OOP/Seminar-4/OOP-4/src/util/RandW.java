@@ -1,7 +1,7 @@
 package util;
 
 import data.Teacher;
-import data.Student;
+import data.student.Student;
 
 import java.util.List;
 

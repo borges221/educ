@@ -1,6 +1,7 @@
 package data;
 
 import data.iterator.GroupStreamIterator;
+import data.student.StudentGroup;
 
 import java.util.Iterator;
 import java.util.List;
