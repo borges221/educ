@@ -11,6 +11,12 @@ public class Student extends User implements Comparable<Student>{
         this.department = department;
         this.course = course;
     }
+
+
+    public Student(String fio){
+        super(fio);
+    }
+
     public int compareTo(Student student){
         if(student.getDateOfBirth()>this.getDateOfBirth()){
             return 1;

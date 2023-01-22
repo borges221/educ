@@ -13,6 +13,10 @@ public class User {
         this.dateOfBirth = dateOfBirth;
     }
 
+    public User(String fio){
+        this.fio = fio;
+    }
+
     public String getName() {
         return name;
     }

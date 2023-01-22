@@ -38,6 +38,8 @@ public class StudentSevice implements DataService {
 
     }
 
+
+
     @Override
     public StudentGroup getGroup() {
         return null;
@@ -60,6 +62,17 @@ public class StudentSevice implements DataService {
 
     @Override
     public void remove(StudentGroup studentGroup) {
+
+    }
+
+    @Override
+    public void deleteStudent(Student entity) {
+        studentRepository.delete(entity);
+    }
+    public void deleteStudentbyFio(String fio){
+
+    }
+    public void deleteStudeentByGroupAndBorn(int groupNum, int born){
 
     }
 }

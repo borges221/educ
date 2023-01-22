@@ -1,5 +1,6 @@
 package service;
 
+import data.student.Student;
 import data.student.StudentGroup;
 import data.User;
 
@@ -23,6 +24,8 @@ public interface DataService <D extends User>{
     void findGroup(StudentGroup studentGroup);
     void usernamesort(StudentGroup studentGroup);
     void remove(StudentGroup studentGroup);
+
+    void deleteStudent(Student entity);
 
 
 }
