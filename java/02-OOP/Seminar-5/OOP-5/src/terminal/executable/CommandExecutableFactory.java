@@ -21,6 +21,11 @@ public class CommandExecutableFactory {
             case "delete":
                 new DeleteStudentExecutable(studentSevice, new Student(input[1]));
                 break;
+            case "deleteByFIO":
+                new DeleteStudentByFioExecutable(studentSevice, new Student(input[1]));
+                break;
+            case "deleteByGroupAndDateOfBorn":
+                new DeleteStudentByGroupAndBorn(studentSevice, new Student(input[1]), new Student(input[2]));
         }
         return null;
 
